@@ -160,7 +160,7 @@ Neste exercício, você aprenderá como criar e gerenciar planos de teste, teste
     ![](images/030.png)
 
 <a name="Ex1Task3"></a>
-### Tarefa 3: Testes de Autorização ###
+### Tarefa 3: Criação de caso de testes ###
 
 1. Expanda a lista suspensa ao lado do plano de teste e selecione **Nova suíte estática**. Uma  **Suite estática** de casos de teste é uma suíte onde os casos foram atribuídos manualmente. Você também pode criar suítes com base em requisitos comuns ( **Suíte baseada em requisitos** ) ou uma consulta de casos de teste e / ou itens de trabalho ( **Suíte baseada em consulta** ).
 
@@ -209,7 +209,7 @@ Neste exercício, você aprenderá como criar e gerenciar planos de teste, teste
 1. Pressione **Esc** para fechar a caixa de diálogo.
 
 <a name="Exercise2"></a>
-## Exercício 2: Autorização, execução e analisando testes manuais ##
+## Exercício 2: Criação, executando e analisando testes manuais ##
 
 Neste exercício, você aprenderá como criar um plano de teste manual e preenche-lo com etapas. O plano pode posteriormente ser executado para confirmar o comportamento esperado do seu software. Neste laboratório, vamos nos concentrar em criar um novo caso de teste manual e executá-lo.
 
@@ -251,7 +251,7 @@ Neste exercício, você aprenderá como criar um plano de teste manual e preench
     ![](images/048.png)
 
 <a name="Ex2Task2"></a>
-### Tarefa 2: Autorização de um plano de teste manual ###
+### Tarefa 2: Criacao de um plano de teste manual ###
 
 1. No Chrome, navegue até o seu  projeto **Parts Unlimited**
 
